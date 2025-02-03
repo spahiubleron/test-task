@@ -5,7 +5,7 @@ Test task to fetch and display users and details about each user.
 ## Getting Started
 
 ```bash
-git clone https://github.com/spahiubleron/test-task-bleron.git
+git clone https://github.com/spahiubleron/test-task.git
 
 cd ./test-task-bleron
 
